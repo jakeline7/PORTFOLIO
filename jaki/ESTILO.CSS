@@ -1,0 +1,19 @@
+html,body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.fondo-principal{
+    display: flex;
+}
+.fondo--rojo{
+    background-color: red;
+    width: 50vw;
+    height: 100vh;
+    
+}
+.fondo--celeste{
+    background-color:rgb(41, 167, 240);
+    width: 50vw;
+    height: 100vh;
+}
